@@ -12,4 +12,4 @@
 
 **The Final Dashboard:**
 
-![Netflix](https://github.com/srinivasbonthu551/Netflix_Dashboard/assets/130753139/fca6933d-2f4e-4d93-9639-039df6974523)
+![Netflix](https://github.com/srinivasbonthu551/Netflix_Dashboard/assets/130753139/7a00d8fa-c3d5-4e4e-8c00-318eca5e8b5a)
