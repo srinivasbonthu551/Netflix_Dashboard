@@ -8,7 +8,7 @@
 
 3.The Dashboard will show total number of movies and Tv shows released each year.
 
-4The Dashboard will top 10 genre and pie chart of sum up of movies and Tv shos released each year.
+4.The Dashboard will show  top 10 genre and pie chart of sum up of movies and Tv shos released each year.
 
 **The Final Dashboard:**
 
